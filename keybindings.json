@@ -1,0 +1,15 @@
+// Place your key bindings in this file to override the defaults
+[
+    {
+        "key": "alt+b",
+        "command": "workbench.action.toggleActivityBarVisibility"
+    },
+    {
+        "key": "ctrl+m ctrl+m",
+        "command": "editor.action.toggleMinimap"
+    },
+    {
+        "key": "alt+m",
+        "command": "workbench.action.toggleMenuBar"
+    }
+]

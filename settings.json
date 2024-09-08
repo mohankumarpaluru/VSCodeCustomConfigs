@@ -1,0 +1,62 @@
+{
+    "[python]": {
+        "editor.defaultFormatter": "mikoz.black-py"
+    },
+    "chat.editor.wordWrap": "on",
+    "diffEditor.ignoreTrimWhitespace": false,
+    "diffEditor.wordWrap": "on",
+    "editor.accessibilitySupport": "off",
+    "editor.copyWithSyntaxHighlighting": false,
+    "editor.fontFamily": "Geist Mono, JetBrains Mono, Fira Code",
+    "editor.fontLigatures": "'calt', 'liga', 'ss01', 'ss02', 'ss03', 'ss04', 'ss05', 'ss06', 'ss07', 'ss08', 'ss09'",
+    // "editor.fontSize": 16,
+    "editor.fontWeight": "400",
+    "editor.lineHeight": 24,
+    "editor.minimap.maxColumn": 250,
+    "editor.multiCursorModifier": "alt",
+    "editor.padding.top": 16,
+    "editor.snippetSuggestions": "top",
+    "editor.stickyScroll.enabled": true,
+    "editor.suggestFontSize": 16,
+    "editor.suggestLineHeight": 30,
+    "editor.wordSeparators": "`~!@#%^&*()=+[{]}\\|;:'\",.<>/?",
+    "editor.wordWrap": "wordWrapColumn",
+    "explorer.confirmDelete": false,
+    "files.insertFinalNewline": true,
+    "files.trimFinalNewlines": true,
+    "files.trimTrailingWhitespace": true,
+    "git.ignoreRebaseWarning": true,
+    "jupyter.askForKernelRestart": false,
+    "material-icon-theme.files.color": "#42a5f5",
+    "material-icon-theme.saturation": 0,
+    "notebook.output.wordWrap": true,
+    "python.defaultInterpreterPath": "",
+    "remote.SSH.remotePlatform": {
+        "Oracle-Micro2": "linux"
+    },
+    "terminal.integrated.defaultProfile.windows": "Command Prompt",
+    "terminal.integrated.fontSize": 16,
+    "terminal.integrated.lineHeight": 1.5,
+    "vscode_custom_css.imports": [
+        "file:///C:/Users/mohan/Softwares/VSCodeCustomConfigs/custom-vscode.css",
+        "file:///C:/Users/mohan/Softwares/VSCodeCustomConfigs/vscode-script.js"
+    ],
+    "window.newWindowDimensions": "inherit",
+    // "workbench.activityBar.location": "hidden",
+    "workbench.colorTheme": "Monokai Pro (Filter Octagon)",
+    // "workbench.statusBar.visible": false,
+    "workbench.tree.enableStickyScroll": false,
+    "workbench.activityBar.location": "hidden",
+    "workbench.settings.applyToAllProfiles": [
+
+
+
+
+
+
+
+    ],
+    "editor.minimap.enabled": false,
+    "window.menuBarVisibility": "compact",
+    "workbench.iconTheme": "Monokai Pro (Filter Octagon) Icons"
+}
